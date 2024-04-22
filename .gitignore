@@ -1,0 +1,13 @@
+# all with .log extension
+*.log
+
+# exclude this
+!master.log
+
+#root
+/TODO
+
+#all folders
+TODO/
+
+#
